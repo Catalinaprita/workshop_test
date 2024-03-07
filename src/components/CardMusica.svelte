@@ -8,7 +8,7 @@
 
 <div class="card">
 	<img class="card_immagine" src={immagine} alt="Copertina del disco" />
-
+	u
 	<div class="card_musica_centro">
 		<p>{artista}</p>
 		<p class="card_disco_titolo">{disco}</p>
